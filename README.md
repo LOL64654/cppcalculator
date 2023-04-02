@@ -1,1 +1,1 @@
-# c--calculator- copyright by lol1234
+# c++ calculator copyright by lol64654
