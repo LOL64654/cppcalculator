@@ -1,7 +1,7 @@
 # c++ calculator 
-this my first porgram with c
+this my first porgram with c++
 
-btw this thing i made it like 2 years ago 
+btw this thing i made it when i was a kid
 
 
 
